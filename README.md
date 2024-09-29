@@ -3,8 +3,6 @@
 ![Header](./github-header-image.png)
 
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Luxe Shop - lightweight ecommerce platform
 - 🌱 I’m currently learning NextJS
 - 💬 Ask me about ...
