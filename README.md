@@ -3,7 +3,7 @@
 ![Header](./github-header-image.png)
 
 
-- 🔭 I’m currently working on Luxe Shop - lightweight ecommerce platform
+- 🔭 I’m currently working on Gifinity - web application where you can store your favourite Gifs and Stickers
 - 🌱 I’m currently learning NextJS
 - 💬 Ask me about ...
 - 📫 How to reach me: [My portfolio](https://jakubbabelek.com/), [LinkedIn](https://www.linkedin.com/in/jakub-babelek/)
